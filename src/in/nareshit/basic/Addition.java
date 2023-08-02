@@ -7,7 +7,14 @@ public class Addition {
         int a = 10;
         int b = 20;
         System.out.println(a+b);
+
+        mul(a,b);
         		
 	}
+       public static void mul(int a, int b){
+        
+          int product = a*b;
+          System.out.println(product);
+        }
 
 }
