@@ -8,7 +8,8 @@ public class Addition {
         int b = 20;
         System.out.println(a+b);
 
-        mul(a,b);
+        
+mulnnns
         		
 	}
        public static void mul(int a, int b){
